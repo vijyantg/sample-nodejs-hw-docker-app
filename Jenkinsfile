@@ -1,4 +1,3 @@
-// Test pipeline
 // Testing 123
 pipeline {
     agent any
